@@ -1,0 +1,8 @@
+qwen-asr
+torch
+torchaudio
+silero-vad
+gradio
+numpy
+soundfile
+indic-transliteration
